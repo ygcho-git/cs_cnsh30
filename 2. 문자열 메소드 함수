@@ -1,0 +1,10 @@
+s = "Hello World"
+
+print( s.upper() )
+print( s.count('l') )
+print( s.index('r') )
+print(s.replace('l', 'L') )
+
+a, b = s.split()
+print(a)
+print(b)
