@@ -11,7 +11,7 @@ print( min(10, -7, 6, 32) )
 
 print( eval("2 * int(x) + 3") )
 print( len("Hello World") )
-#print( len(x) )
+#print( len(x) ) # error
 print( len( str(x) ) )
 
 print( ord('A'), ord('\n') )
